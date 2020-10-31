@@ -9,6 +9,9 @@
 <br/>
 
 iOS | .NET Core | Blazor | React
+## `cat profile.dat > more`
+Hey there! Just a quick notice here: This profile is now available as a website, rendering some stats that GitHub's markdown wouldn't allow.
+So... Yeah, you can [view my full profile (and portfolio) by clicking here.](https://gabrieltk.vercel.app/)
 <!--- END: NOX -->
 ## `> whoami` :sunglasses:
 18 year old, 12th Grade Student, currently on an IT Internship @ Engemon Brazil. Technology Director @ ColBand Care - a volunteer based organization with mental health as it's focus.
