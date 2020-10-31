@@ -2,7 +2,8 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import ReactMarkdown from 'react-markdown'
 import { GetStaticProps } from 'next'
-import fs from 'fs/promises'
+import fs from 'fs'
+import {promisify} from 'util';
 import { Paper } from '@material-ui/core'
 import emoji from 'emoji-dictionary'
 
@@ -69,8 +70,9 @@ export default function Home({ source }) {
   )
 }
 
+const readFile = promisify(fs.readFile)
 export const getStaticProps: GetStaticProps = async (context) => {
-  let originalMd = await (await fs.readFile("./README.md")).toString()
+  let originalMd = await (await readFile("./README.md")).toString()
   var md = originalMd.replace(/<!--- JSX\n(.*)\n-->/g, '$1')
     .replace(/<!--- (.*)END: NOX -->/gs, '')
   return {
