@@ -1,3 +1,7 @@
+<!--- JSX
+<script src="https://profile.codersrank.io/widget/widget.js"></script>
+-->
+<!--- NOX -->
  # GabrielTK :smiley:
  [![CodersRank Badge](https://img.shields.io/badge/-CodersRank-71a0a8?style=flat-square&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/gabrieltk)](https://profile.codersrank.io/user/gabrieltk)
 
@@ -5,11 +9,15 @@
 <br/>
 
 iOS | .NET Core | Blazor | React
+<!--- END: NOX -->
 ## `> whoami` :sunglasses:
 18 year old, 12th Grade Student, currently on an IT Internship @ Engemon Brazil. Technology Director @ ColBand Care - a volunteer based organization with mental health as it's focus.
 *Hey, most of the code in here is actually stuff I wrote when I was younger.*
 *Most of my recent code is stored in Private Repos due to internal integrations with proprietary infrastructure as part of ColBand's Care or my current company*
-**To checkout a complete overview of my code, please go to [CodersRank](https://profile.codersrank.io/user/gabrieltk/)**
+
+<!--- JSX
+<codersrank-widget username="gabrieltk"></codersrank-widget>
+-->
 
 ## Technologies :fire:
 - Native iOS Development (Swift && SwiftUI).
