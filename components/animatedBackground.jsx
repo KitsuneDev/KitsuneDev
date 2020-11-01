@@ -9,14 +9,17 @@ class AnimatedBackground extends React.Component {
   }
   componentDidMount() {
     this.vantaEffect = BIRDS({
-      el: this.vantaRef.current
+      el: this.vantaRef.current,
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: true
     })
   }
   componentWillUnmount() {
     if (this.vantaEffect) this.vantaEffect.destroy()
   }
   render() {
-    return <div style={{position: 'absolute'}}>
+    return <div style={{ position: 'absolute' }}>
       <style global jsx>
         {
           `
@@ -26,10 +29,10 @@ class AnimatedBackground extends React.Component {
           `
         }
       </style>
-      <div ref={this.vantaRef} style={{position: 'fixed', zIndex: '-100', width: '100%', height: '100%'}}></div>
+      <div ref={this.vantaRef} style={{ position: 'fixed', zIndex: '-100', width: '100%', height: '100%' }}></div>
       {this.props.children}
     </div>
   }
 }
 
-export {AnimatedBackground}
+export { AnimatedBackground }

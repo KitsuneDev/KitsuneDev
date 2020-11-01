@@ -20,6 +20,7 @@ So... Yeah, you can [view my full profile (and portfolio) by clicking here.](htt
 
 <!--- JSX
 <codersrank-widget username="gabrieltk"></codersrank-widget>
+My [GitHub Profile](https://github.com/GabrielTK) is also available
 -->
 
 ## Technologies :fire:
@@ -62,7 +63,7 @@ So... Yeah, you can [view my full profile (and portfolio) by clicking here.](htt
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@GabrielTKBR-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GabrielTKBR)](https://twitter.com/GabrielTKBR)  [![Email Badge](https://img.shields.io/badge/-gabrieltk@cgnet.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieltk@cgnet.dev)](mailto:gabrieltk@cgnet.dev) [![Instagram Badge](https://img.shields.io/badge/-@gabrieltk_-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrieltk_/)](https://www.instagram.com/gabrieltk_/)
+[![Email Badge](https://img.shields.io/badge/-gabrieltk@cgnet.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieltk@cgnet.dev)](mailto:gabrieltk@cgnet.dev) [![Instagram Badge](https://img.shields.io/badge/-@gabrieltk_-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrieltk_/)](https://www.instagram.com/gabrieltk_/)
 
 <p align="center"> 
   Visitor count<br>
