@@ -9,7 +9,7 @@
 <br/>
 
 iOS | .NET Core | Blazor | React
-## `cat profile.dat > more`
+## `> cat profile.dat > more`
 Hey there! Just a quick notice here: This profile is now available as a website, rendering some stats that GitHub's markdown wouldn't allow.
 So... Yeah, you can [view my full profile (and portfolio) by clicking here.](https://gabrieltk.vercel.app/)
 <!--- END: NOX -->
@@ -53,10 +53,10 @@ So... Yeah, you can [view my full profile (and portfolio) by clicking here.](htt
 
 
 <a href="https://github.com/GabrielTK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTK&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTK&theme=radical&hide=glsl,python&count_private=true" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielTK&&show_icons=true&theme=radical&line_height=27&v=5" alt="GabrielTK's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielTK&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="GabrielTK's GitHub Stats" />
 
 
 
@@ -70,9 +70,8 @@ So... Yeah, you can [view my full profile (and portfolio) by clicking here.](htt
 </p>
 
 
-<div align="center">
+
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
 
