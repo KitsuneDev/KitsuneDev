@@ -16,7 +16,7 @@ class AnimatedBackground extends React.Component {
     if (this.vantaEffect) this.vantaEffect.destroy()
   }
   render() {
-    return <div>
+    return <div style={{position: 'absolute'}}>
       <div ref={this.vantaRef} style={{position: 'fixed', zIndex: '-100', width: '100%', height: '100%'}}></div>
       {this.props.children}
     </div>

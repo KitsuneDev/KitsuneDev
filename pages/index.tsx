@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import ReactMarkdown from 'react-markdown'
+import dynamic from 'next/dynamic'
+//const ReactMarkdown = dynamic(() => import('react-markdown'), {ssr: false})
 import { GetStaticProps } from 'next'
 import fs from 'fs'
 import {promisify} from 'util';
@@ -12,7 +14,7 @@ import { AnimatedBackground } from '../components/animatedBackground'
 const emojiSupport = text => text.value.replace(/:\w+:/gi, name => emoji.getUnicode(name))
 export default function Home({ source }) {
   return (
-    <div className={styles.container}>
+    <div >
       <style global jsx>{`
       html,
       body,
@@ -21,7 +23,9 @@ export default function Home({ source }) {
       div#__next > div,
       div#__next > div > div {
         height: 100%;
+        width: 100%;
         padding: 0;
+        min-width: fit-content;
       }
     `}</style>
       <AnimatedBackground>
@@ -31,7 +35,7 @@ export default function Home({ source }) {
           <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
         </Head>
 
-        <main className={styles.main}>
+        <main>
 
 
           <div style={{ margin: '5%' }}>
