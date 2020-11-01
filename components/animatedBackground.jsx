@@ -17,6 +17,15 @@ class AnimatedBackground extends React.Component {
   }
   render() {
     return <div style={{position: 'absolute'}}>
+      <style global jsx>
+        {
+          `
+          body {
+            background-color: #07192F
+          }
+          `
+        }
+      </style>
       <div ref={this.vantaRef} style={{position: 'fixed', zIndex: '-100', width: '100%', height: '100%'}}></div>
       {this.props.children}
     </div>
