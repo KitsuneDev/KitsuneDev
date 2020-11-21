@@ -20,6 +20,8 @@ So... Yeah, you can [view my full profile (and portfolio) by clicking here.](htt
 
 <!--- JSX
 <codersrank-widget username="gabrieltk"></codersrank-widget>
+-->
+<!--- JSX
 My [GitHub Profile](https://github.com/GabrielTK) is also available
 -->
 
@@ -74,5 +76,4 @@ My [GitHub Profile](https://github.com/GabrielTK) is also available
 
 
 ### Show some ❤️ by starring some of the repositories!
-
 
