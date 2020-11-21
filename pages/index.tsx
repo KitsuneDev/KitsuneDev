@@ -77,8 +77,8 @@ export default function Home({ source }) {
 const readFile = promisify(fs.readFile)
 export const getStaticProps: GetStaticProps = async (context) => {
   let originalMd = await (await readFile("./README.md")).toString()
-  var md = originalMd.replace(/<!--- JSX\n(.*)\n-->/g, '$1')
-    .replace(/<!--- (.*)END: NOX -->/gs, '')
+  var md = originalMd.replaceAll(/<!--- JSX\n(.*)\n-->/g, '$1')
+    .replaceAll(/<!--- (.*)END: NOX -->/gs, '')
   return {
     props: {
       source: md
