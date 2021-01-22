@@ -14,7 +14,7 @@ Hey there! Just a quick notice here: This profile is now available as a website,
 So... Yeah, you can [view my full profile (and portfolio) by clicking here.](https://gabrieltk.vercel.app/)
 <!--- END: NOX -->
 ## `> whoami` :sunglasses:
-18 year old, 12th Grade Student, currently on an IT Internship @ Engemon Brazil. Technology Director @ ColBand Care - a volunteer based organization with mental health as it's focus.
+18 year old, currently @ Engemon Brazil. Technology Director @ ColBand Care - a volunteer based organization with mental health as it's focus.
 *Hey, most of the code in here is actually stuff I wrote when I was younger.*
 *Most of my recent code is stored in Private Repos due to internal integrations with proprietary infrastructure as part of ColBand's Care or my current company*
 
