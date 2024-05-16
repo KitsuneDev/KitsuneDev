@@ -16,12 +16,13 @@
 I am currently working on my personal website, [available here.](https://KitsuneDev.vercel.app/)
 <!--- END: NOX -->
 ## `> whoami` :sunglasses:
-18 year old, currently a student at Sacred Heart University. Former Technology Director @ ColBand Care - a volunteer based organization with mental health as it's focus.
+Allo! I'm 21 years old and a student at Sacred Heart University. I'm also the CEO/CTO of SUNE Studios LLC.
+I'm also the former Technology Director of ColBand Care, a volunteer-based organization that focuses on mental health.
 
 **Sanity Warning:**
 
 *Hey, most of the code in here is actually stuff I wrote when I was younger.*
-*Most of my recent code is stored in Private Repos due to internal integrations with proprietary infrastructure as part of ColBand's Care or my current company. If you are looking for an assessment of my skills, I suggest checking out [my profile on CodersRank, which includes private repos.](https://profile.codersrank.io/user/KitsuneDev)*
+*Most of my recent code is stored in Private Repos due to internal integrations with proprietary infrastructure as part of ColBand's Care or my current company. If you want to assess my skills, I suggest checking out [my profile on CodersRank, which includes private repos.](https://profile.codersrank.io/user/KitsuneDev)*
 
 <!--- JSX
 <codersrank-widget username="KitsuneDev"></codersrank-widget>
