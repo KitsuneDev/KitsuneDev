@@ -11,9 +11,9 @@
 <br/>
 <br/>
 
-## `> cat profile.dat > more`
+## `> cat profile.dat | more`
 
-I am currently working on my personal website, [available here.](https://KitsuneDev.vercel.app/)
+I am currently working on my personal website, [available here.](https://akitsune.dev/)
 <!--- END: NOX -->
 ## `> whoami` :sunglasses:
 Allo! I'm 21 years old and a student at Sacred Heart University. I'm also the CEO/CTO of SUNE Studios LLC.
