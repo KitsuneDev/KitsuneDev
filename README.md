@@ -46,7 +46,7 @@ My [GitHub Profile](https://github.com/KitsuneDev) is also available
 
 
 ##  Contact Me :speech_balloon:
-[![Email Badge](https://img.shields.io/badge/-kitsune@akitsune.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:KitsuneDev@cgnet.dev)(mailto:kitsune@akitsune.dev)]
+[![Email Badge](https://img.shields.io/badge/-kitsune@akitsune.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:KitsuneDev@cgnet.dev)](mailto:kitsune@akitsune.dev)
 
 <p align="center"> 
   Visitor count<br>
