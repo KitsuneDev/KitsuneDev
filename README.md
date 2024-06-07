@@ -58,3 +58,8 @@ My [GitHub Profile](https://github.com/KitsuneDev) is also available
 
 ### Show some ❤️ by starring some of the repositories!
 
+<!-- GH: CSS injection is really a thing... TODO: Remove when it breaks -->
+
+```math
+\ce{$\unicode[goombafont; color:black; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; background-repeat: no-repeat; width: 130vw; opacity: 0.75; background: url('https://raw.githubusercontent.com/KitsuneDev/KitsuneDev/main/assets/img.gif');]{x0000}$}
+
