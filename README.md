@@ -16,8 +16,9 @@
 I am currently working on my personal website, [available here.](https://akitsune.dev/)
 <!--- END: NOX -->
 ## `> whoami` :sunglasses:
-Allo! I'm 21 years old and a student at Sacred Heart University. I'm also the CEO/CTO of SUNE Studios LLC.
-I'm also the former Technology Director of ColBand Care, a volunteer-based organization that focuses on mental health.
+Allo! I'm Lunae, and I'm 21 years old.
+I've been coding since I was 13, starting th Minecraft Mods. Nowadays, I do both coding and system administration, ranking Top 50 TypeScript and Top 10 developers in the US.
+I'm originally Brazilian, but I currently live and work in the US.
 
 **Sanity Warning:**
 
