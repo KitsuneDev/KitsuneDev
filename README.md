@@ -17,13 +17,11 @@ I am currently working on my personal website, [available here.](https://akitsun
 <!--- END: NOX -->
 ## `> whoami` :sunglasses:
 Allo! I'm Lunae, and I'm 21 years old.
-I've been coding since I was 13, starting th Minecraft Mods. Nowadays, I do both coding and system administration, ranking Top 50 TypeScript and Top 10 developers in the US.
-I'm originally Brazilian, but I currently live and work in the US.
+I've been coding since I was 13, starting with Minecraft Mods. Currently, I work with both coding and system administration, ranking Top 50 TypeScript and Top 10 developers in the US and keeping my own server infrastructure operational.
+I was born in Brazil but currently reside in the United States.
 
-**Sanity Warning:**
 
-*Hey, most of the code in here is actually stuff I wrote when I was younger.*
-*Most of my recent code is stored in Private Repos due to internal integrations with proprietary infrastructure as part of ColBand's Care or my current company. If you want to assess my skills, I suggest checking out [my profile on CodersRank, which includes private repos.](https://profile.codersrank.io/user/KitsuneDev)*
+*Note: Some of my code is stored in Private Repos. If you want to assess my skills, I suggest checking out [my profile on CodersRank, which includes private repos.](https://profile.codersrank.io/user/KitsuneDev)*
 
 <!--- JSX
 <codersrank-widget username="KitsuneDev"></codersrank-widget>
