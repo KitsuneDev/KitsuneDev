@@ -16,7 +16,7 @@
 I am currently working on my personal website, [available here.](https://akitsune.dev/)
 <!--- END: NOX -->
 ## `> whoami` :sunglasses:
-Allo! I'm Lunae, and I'm 21 years old.
+Allo! I'm Kitsune, and I'm 22 years old.
 I've been coding since I was 13, starting with Minecraft Mods. Currently, I work with both coding and system administration, ranking Top 50 TypeScript and Top 10 developers in the US and keeping my own server infrastructure operational.
 I was born in Brazil but currently reside in the United States.
 
